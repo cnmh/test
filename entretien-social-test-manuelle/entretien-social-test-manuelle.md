@@ -7,8 +7,7 @@
 SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'undefined' for column 'tuteur_id' at row 1
 
 ```
-## Test : Ajouter le dossier a liste d’attente : il manque la barre de recherche 
-- il manque la barre de recherche des dossiers en liste d'atttente
+
 
 ## Test: Gérer rendez-vous : editer THIS ACTION UNAUTHORIZED
 - chemin :`http://127.0.0.1:8000/rendez-vous/update/1`
