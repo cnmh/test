@@ -5,7 +5,7 @@ Validation manuelle du respect des scénarios et de la conception dans l'applica
 
 ## Liste des livrables 
 - file markdown 
-  - [liste-attente-test-manuelle](https://github.com/cnmh/test/blob/yasmine/rendez-vous-test-manuelle/rendez-vous-test-manuelle.md)
+  - [liste-attente-test-manuelle](https://github.com/cnmh/test/blob/yasmine/liste-attente-test-manuelle/liste-attente-test-manuelle.md)
 
 ## Liste des PullRequests
 

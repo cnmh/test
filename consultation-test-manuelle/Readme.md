@@ -1,8 +1,11 @@
 # consultation-test-manuelle
 ## Travail à faire 
-
+Validation manuelle du respect des scénarios et de la conception dans l'application
 
 ## Liste des livrables 
+- file markdown 
+  - [consultation-test-manuelle](https://github.com/cnmh/test/blob/yasmine/consultation-test-manuelle/consultation-test-manuelle.md)
+
 ## Liste des PullRequests
 
 - Création de fichier readme.md
@@ -19,4 +22,4 @@
 
 ## Validateur 
 - App :  
-## Liens des livrable dans drive
+
