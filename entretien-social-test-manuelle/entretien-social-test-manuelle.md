@@ -25,8 +25,7 @@ SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'undefined' for co
 
 ## Notes pour le test de conception
 - le manque de seeders pour le test
-- issue niveau 1 
-- Le bouton "supprimer" ne fonctionne pas 
+
   
 
 ## Notes pour le test des scenario
