@@ -20,13 +20,6 @@ SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'undefined' for co
 
 
 
-
-
-
-
-
-
-
 ### issues
 ## entretien-social : Ajouter tuteur - Le bouton "supprimer" ne fonctionne pas 
 ```
