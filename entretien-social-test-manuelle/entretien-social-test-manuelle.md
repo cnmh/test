@@ -9,11 +9,7 @@ SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'undefined' for co
 ```
 
 
-## Test: Gérer rendez-vous : editer THIS ACTION UNAUTHORIZED
-- chemin :`http://127.0.0.1:8000/rendez-vous/update/1`
-- error :  403 THIS ACTION IS UNAUTHORIZED.
-## Test: Ajouter-consultations : il manque la barre de recherche des rendez-vous
-- il manque la barre de recherche des dossiers en rendez-vous
+
 
  
 

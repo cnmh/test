@@ -4,7 +4,7 @@
 Validation manuelle du respect des scénarios et de la conception dans l'application
 ## Liste des livrables 
 - file markdown 
-  - [rendez-vous-test-manuelle]()
+  - [rendez-vous-test-manuelle](https://github.com/cnmh/test/blob/yasmine/rendez-vous-test-manuelle/rendez-vous-test-manuelle.md)
 ## Liste des PullRequests
 - Création de fichier readme.md
 - close #1

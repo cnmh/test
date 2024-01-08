@@ -2,5 +2,8 @@
 
  ## issues Bloquant
 
-## Test : Ajouter le dossier a liste d’attente : il manque la barre de recherche 
-- il manque la barre de recherche des dossiers en liste d'atttente
+
+
+## Test: Gérer rendez-vous : editer THIS ACTION UNAUTHORIZED
+- chemin :`http://127.0.0.1:8000/rendez-vous/update/1`
+- error :  403 THIS ACTION IS UNAUTHORIZED.
