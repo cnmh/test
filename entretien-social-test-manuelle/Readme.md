@@ -3,6 +3,7 @@
 Validation manuelle du respect des scénarios et de la conception dans l'application
 ## Liste des livrables 
 - file markdown 
+  - [entretien-social-test-manuelle](https://github.com/cnmh/test/blob/yasmine/entretien-social-test-manuelle/entretien-social-test-manuelle.md)
 ## Liste des PullRequests
 - Création de fichier readme.md
 - close #1
@@ -17,4 +18,4 @@ Validation manuelle du respect des scénarios et de la conception dans l'applica
 
 ## Validateur 
 - App : soufiane  
-## Liens des livrable dans drive
+
